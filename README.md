@@ -1,3 +1,5 @@
 # conflict-resolution-test
 
-this note was added locally
+this note was added remotely
+
+i have accepted the remote changes to this readme.
